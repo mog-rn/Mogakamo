@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Amos 👋
 
 <!--
 **Mogakamo/Mogakamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Web Developer passionate in web technologies.I'm currently working on building an e-commerce website that will help businesses to advertise their products online. Currently I'm learning PHP and its technologies at the moment.
+
+You can find me at:
+   -
