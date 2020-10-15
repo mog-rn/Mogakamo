@@ -21,10 +21,19 @@
 
 - 📫 How to reach me **mogaka.amo254@gmail.com**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <p align="left">
 <h3 align="left">Connect with me:</h3>
+<a href="https://dev.to/mogakamo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mogakamo" height="30" width="40" /></a>
 <a href="https://twitter.com/m_ogakadev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="m_ogakadev" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13337356" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13337356" height="30" width="40" /></a>
 <a href="https://instagram.com/m_ogakadev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="m_ogakadev" height="30" width="40" /></a>
+<a href="https://medium.com/@mogaka.amo254" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mogaka.amo254" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/mogaka_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mogaka_dev" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/mogaka_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="mogaka_dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
