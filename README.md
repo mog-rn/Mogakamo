@@ -1,5 +1,6 @@
 ### Hi there 👋, meet Amos
-<iframe src="https://giphy.com/embed/Vbn7PUTxaB6dVnVa2h" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kroppa-pc-software-yazlm-Vbn7PUTxaB6dVnVa2h">
+![](<iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a>)
+
 I am a Javascript developer who is really passionate of its technologies
 
 Skills: REACT / JS / HTML / CSS
