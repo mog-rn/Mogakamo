@@ -20,7 +20,7 @@ Skills: REACT / JS / HTML / CSS
 
 [![Mogaka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mogaka_dev)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mogakamo&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mogakamo&show_icons=true&count_private=true&theme=tokyonight)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Mogakamo)  
 
