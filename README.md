@@ -18,6 +18,8 @@ Skills: REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mogakamo)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Mogaka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mogaka_dev)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mogakamo&show_icons=true&count_private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Mogakamo)  
