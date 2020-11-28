@@ -24,6 +24,20 @@ Skills: REACT / JS / HTML / CSS
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mogakamo&repo=LoveMeNowBook)](https://github.com/mogakamo/LoveMeNowBook)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mogakamo&repo=LoveMeNowBook)](https://github.com/mogakamo/LoveMeNowBook)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mogakamo&repo=LoveMeNowBook)](https://github.com/mogakamo/LoveMeNowBook)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mogakamo&repo=LoveMeNowBook)](https://github.com/mogakamo/LoveMeNowBook)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mogakamo&repo=LoveMeNowBook)](https://github.com/mogakamo/LoveMeNowBook)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mogakamo&repo=LoveMeNowBook)](https://github.com/mogakamo/LoveMeNowBook)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mogakamo&repo=LoveMeNowBook)](https://github.com/mogakamo/LoveMeNowBook)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mogakamo&repo=LoveMeNowBook)](https://github.com/mogakamo/LoveMeNowBook)
+
 ![GitHub metrics](https://metrics.lecoq.io/Mogakamo)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mogakamo)  
