@@ -22,6 +22,8 @@ Skills: REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mogakamo&show_icons=true&count_private=true&theme=tokyonight)
 
+<p>
+  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mogakamo&repo=LoveMeNowBook)](https://github.com/mogakamo/LoveMeNowBook)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mogakamo&repo=LoveMeNowBook)](https://github.com/mogakamo/LoveMeNowBook)
@@ -37,6 +39,9 @@ Skills: REACT / JS / HTML / CSS
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mogakamo&repo=LoveMeNowBook)](https://github.com/mogakamo/LoveMeNowBook)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mogakamo&repo=LoveMeNowBook)](https://github.com/mogakamo/LoveMeNowBook)
+
+</p>
+
 
 ![GitHub metrics](https://metrics.lecoq.io/Mogakamo)  
 
