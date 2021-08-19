@@ -1,5 +1,5 @@
 <div align="center">
-  <iframe width="100%" height = "250px" src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">via GIPHY</a></p>
+  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">via GIPHY</a></p>
 <img  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fkopkaa&psig=AOvVaw259HWoBx8BUUUFV0NAMhTG&ust=1629472639014000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCTweGwvfICFQAAAAAdAAAAABAD" alt="cover" />
 </div>
 
