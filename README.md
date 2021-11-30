@@ -18,7 +18,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on [Zuri Chat application](https://zuri.chat), my portfolio
+- 🔭 I’m currently working on my [Resume](https://mogakadev.tech)
 
 - 🌱 I’m currently learning Nodejs Development and also designing and testing apps built in vue.
 
