@@ -1402,7 +1402,7 @@
                                         </svg>
                                         <div class="name">
                                             <span>koalaman/shellcheck</span>
-                                            <span>starred 9 hours ago</span>
+                                            <span>starred 10 hours ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">ShellCheck, a static analysis tool for shell scripts</div>
@@ -2184,7 +2184,7 @@
                     </section>
                     <footer>
                         <span>These metrics include private contributions</span>
-                        <span>Last updated 7 Jan 2022, 21:01:22 (timezone Africa/Nairobi) with lowlighter/metrics@3.17.0</span>
+                        <span>Last updated 7 Jan 2022, 22:01:26 (timezone Africa/Nairobi) with lowlighter/metrics@3.17.0</span>
                     </footer>
                 </section>
                 <div id="metrics-end"></div>
