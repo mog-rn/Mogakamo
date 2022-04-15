@@ -41,11 +41,11 @@
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -92,7 +92,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4476 Commits
+                            4478 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -248,14 +248,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="412.68520117092027" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="412.68520117092027" y="0" width="10.704531435881394" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="423.3897326068017" y="0" width="9.338358039516558" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="432.72809064631826" y="0" width="8.568217946697366" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="441.2963085930156" y="0" width="8.096793729704302" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="449.3931023227199" y="0" width="6.883713599747831" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="456.27681592246773" y="0" width="2.473928303133628" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="458.75074422560135" y="0" width="1.2492557743986392" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="412.6635108306433" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="412.6635108306433" y="0" width="10.72814597686906" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="423.3916568075124" y="0" width="9.337867224331205" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="432.7295240318436" y="0" width="8.567767609340216" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="441.2972916411838" y="0" width="8.096368169954035" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="449.39365981113787" y="0" width="6.883351798331343" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="456.27701160946924" y="0" width="2.4737982758233112" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="458.75080988529254" y="0" width="1.2491901147075168" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2004,7 +2004,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.96m out of 299m repositories</span>
+                                    <span class="gh">ranked 2.09m out of 299m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -2167,7 +2167,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Apr 2022, 21:01:27 (timezone Africa/Nairobi) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 15 Apr 2022, 22:01:15 (timezone Africa/Nairobi) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
