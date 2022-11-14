@@ -67,7 +67,7 @@
                     <section>
                         <div class="introduction">
                             Frontend Engineer | Open source champion
-                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                            <img class="gemoji" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" height="16" width="16" alt="" />
                             | AWS Certified Cloud Practitioner
                         </div>
                     </section>
@@ -86,7 +86,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5736 Commits
+                            5779 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -194,7 +194,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.65m added, 1.27m removed
+                                    2.17m added, 1.24m removed
                                 </div>
                             </section>
                             <section>
@@ -2232,7 +2232,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Nov 2022, 16:39:56 (timezone Africa/Nairobi) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 14 Nov 2022, 17:14:13 (timezone Africa/Nairobi) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
